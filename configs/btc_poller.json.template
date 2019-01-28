@@ -1,0 +1,13 @@
+{
+	"poll": {
+		"uri": "URI",
+		"interval_sec": INTERVAL_SEC
+	},
+	"db": {
+		"host": "HOST",
+		"port": PORT,
+		"user": "DB_USER",
+		"password": "DB_PASS",
+		"dbname": "DB_NAME"
+	}
+}
